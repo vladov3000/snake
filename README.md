@@ -1,10 +1,10 @@
 # Snake
 
-An implementation of the classic snake game.
+An implementation of the classic snake game. The snake gets longer as it eats more apples and faster as it gets longer. My high score is 20.
 
-A compiled version of the game is avilable for MacOs: download [here](https://github.com/vladov3000/snake/raw/master/releases/mac/snake).
-
-Windows and Linux builds are unavailable. Luckily, the code is portable across many operating systems/architectures and is relatively trivial to compile yourself.
+<p align="center">
+  <img src="https://github.com/vladov3000/snake/blob/master/demo.gif" />
+</p>
 
 Dependencies:
 - rust
